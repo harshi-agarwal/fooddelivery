@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+  body{
+    font-family: 'Arial',sans-serif;
+    font-size: 14px;
+    color:white;
+    background: #333;
+    line-height: 1.6em;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+/*h1{
+  text-align: center;
+  margin-bottom: 20px;
+}*/
+main{
+  width:940px;
+  /*width: 100%;*/
+  height: 1000px;
+  /*height: 100%;*/
+  background: url('http://www.lotusartichoke.com/wp-content/uploads/2012/06/BACKCOVER-photos_111912b_800.jpg');
+  background-repeat: repeat; 
+  /*background-size: cover;*/
+  opacity: 0.3;
+  top: 0;
+  text-align: center;
+  }
+  .maindiv{
+    opacity: 1;
+    width: 500px;
+    height:1000px;
+    background: white;
+    }
+
+.maindiv h1 {
+ opacity: 1;
+  color: black;
+}
